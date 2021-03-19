@@ -1,0 +1,158 @@
+
+
+body {
+    background-color: darkmagenta;
+}
+
+p {
+    color: black;
+    font-size: large;
+    font-style: italic;
+}
+
+a {
+    color: black;
+}
+
+li {
+    color: black;
+    padding: px;
+    background-color: rgb(141, 141, 237);
+}
+
+p {
+    text-align: center;
+}
+
+p {
+    border: rgb(255, 254, 254) 2px;
+    padding: 10px;
+    background-color: rgb(141, 141, 237);
+    border-radius: 25px;
+    border-style: groove;
+}
+
+body {
+    background-image: url("Rachrulz6.jpg");
+    width: 250;
+    height: 100;
+}
+
+.gallery {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    
+
+}
+
+.navigation_main {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    color: black;
+    border: rgb(255, 255, 255) 2px;
+    padding: 10px;
+    background-color: rgb(141, 141, 237);
+    border-radius: 25px;
+    font-size: 25px;
+    border-style: groove;
+    
+}
+
+.site_name {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    border: rgb(252, 249, 250) 2px;
+    padding: 10px;
+    background-color: rgb(141, 141, 237);
+    border-radius: 25px;
+    border-style: groove;
+}
+
+.gallery_title {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: black;
+    border: rgb(247, 246, 246) 2px;
+    padding: 10px;
+    background-color: rgb(141, 141, 237);
+    border-radius: 25px;
+    font-size: 45px;
+    border-style: groove;
+}
+
+.backstory_title {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: black;
+    border: rgb(247, 247, 247) 2px;
+    padding: 10px;
+    background-color: rgb(141, 141, 237);
+    border-radius: 25px;
+    font-size: 35px;
+    border-style: groove;
+}
+
+.story_para {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: black;
+    border: rgb(255, 255, 255) 2px;
+    padding: 10px;
+    background-color: rgb(141, 141, 237);
+    border-radius: 25px; 
+    background-image: url("Rachrulz6.jpg"); 
+    border-style: groove;   
+}
+
+.find_me {
+    text-align: center;   
+}
+
+.find_me1 {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: black;
+    border: rgb(255, 255, 255) 2px;
+    padding: 10px;
+    background-color: rgb(141, 141, 237);
+    border-radius: 25px;
+    font-size: 35px;
+    border-style: groove;
+}
+
+.bio_img {
+    display: flex;
+    color: black;
+    border: rgb(255, 253, 254) 2px;
+    background-color: rgb(141, 141, 237); 
+      
+}
+
+.navigation {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: black;
+    border: rgb(242, 233, 236) 2px;
+    padding: 10px;
+    background-color: rgb(141, 141, 237);
+    border-radius: 25px;
+    font-size: 25px;
+    border-style: groove;
+    
+}
+
+.disclaimer {
+
+    color: white;
+    border: thin;
+    padding: 25px;
+}
